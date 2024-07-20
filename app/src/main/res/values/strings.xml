@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="field_phone">Phone</string>
+    <string name="screen_login_title">Login</string>
+    <string name="screen_login_send_code">Send Code</string>
+    <string name="field_code">Code</string>
+    <string name="screen_check_code_check">Check</string>
+    <string name="screen_registration_title">Registration</string>
+    <string name="field_username">Username</string>
+    <string name="screen_registration_register">Register</string>
+    <string name="screen_profile_title">Profile</string>
+    <string name="screen_profile_edit">Edit</string>
+    <string name="field_name">Name</string>
+    <string name="screen_check_code_title">Code</string>
+    <string name="screen_login_register">Register</string>
+    <string name="screen_profile_edit_save">Save</string>
+    <string name="screen_profile_cancel">Cancel</string>
+    <string name="screen_edit_profile_error">Something Went Wrong</string>
+    <string name="screen_edit_profile_error_reload">Reload page</string>
+    <string name="field_city">City</string>
+</resources>
